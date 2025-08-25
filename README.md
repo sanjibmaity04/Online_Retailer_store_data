@@ -68,5 +68,5 @@ This analysis provides a comprehensive view of store sales, helping stakeholders
 - Expand in **high-performing states** while improving sales in underperforming regions.
 - Leverage **Amazon** and other e-commerce platforms for increased digital reach.
 ## Contact
--sanjibnitdgp7@gmail.com(Email)
--Contact No:9883297925
+sanjibnitdgp7@gmail.com(Email)
+Contact No:9883297925
