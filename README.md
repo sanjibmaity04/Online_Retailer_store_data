@@ -7,7 +7,8 @@ This project analyzes store sales data to generate a **Sales Annual Report**, hi
 
 Below is a preview of the dashboard:
 
-![Report Preview](https://drive.google.com/file/d/1Ti3UqFrNAG21Bepv01StBCt5kSM0Ai5P/view?usp=sharing)
+[![Report Preview] 
+https://drive.google.com/file/d/1Ti3UqFrNAG21Bepv01StBCt5kSM0Ai5P/view?usp=sharing
 
 ## Steps Involved
 
