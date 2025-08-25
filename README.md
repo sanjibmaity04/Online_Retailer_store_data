@@ -7,15 +7,17 @@ This project analyzes store sales data to generate a **Sales Annual Report**, hi
 
 Below is a preview of the dashboard:
 
-[![Report Preview] 
-https://drive.google.com/file/d/1Ti3UqFrNAG21Bepv01StBCt5kSM0Ai5P/view?usp=sharing
+[![Report Preview] <img width="1853" height="633" alt="Report" src="https://github.com/user-attachments/assets/df70dc17-2d03-41fd-a4e6-890692a35383" />
+
+
 
 ## Steps Involved
 
 ### 1. Data Cleaning
 Before analysis, we ensured data consistency and accuracy:
 - **Checked for null values** and handled missing data appropriately.
-- **Standardized gender representation**: Converted `m` to `Men` and `w` to `Women`.
+- **Standardize<img width="1853" height="633" alt="Report" src="https://github.com/user-attachments/assets/2ff60f1b-bd73-47b9-b369-c5beac26edc8" />
+d gender representation**: Converted `m` to `Men` and `w` to `Women`.
 - **Converted categorical numerical values** in the quantity column:
   - `one` → `1`
   - `two` → `2`
