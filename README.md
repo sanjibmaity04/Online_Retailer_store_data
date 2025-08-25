@@ -7,7 +7,7 @@ This project analyzes store sales data to generate a **Sales Annual Report**, hi
 
 Below is a preview of the dashboard:
 
-[![Report Preview] <img width="1853" height="633" alt="Report" src="https://github.com/user-attachments/assets/df70dc17-2d03-41fd-a4e6-890692a35383" />
+ <img width="1853" height="633" alt="Report" src="https://github.com/user-attachments/assets/df70dc17-2d03-41fd-a4e6-890692a35383" />
 
 
 
