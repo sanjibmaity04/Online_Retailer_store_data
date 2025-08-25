@@ -7,7 +7,7 @@ This project analyzes store sales data to generate a **Sales Annual Report**, hi
 
 Below is a preview of the dashboard:
 
-![Report Preview](https://github.com/shreyashsupe/Powerbi-Excel-Dashboard-Projects/blob/main/Store%20Data%20Analysis/Report.png)
+![Report Preview](https://drive.google.com/file/d/1Ti3UqFrNAG21Bepv01StBCt5kSM0Ai5P/view?usp=sharing)
 
 ## Steps Involved
 
